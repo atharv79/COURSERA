@@ -1,5 +1,5 @@
 ---
-title: "CAR DATA"
+title: "Car Data"
 author: "ATHARV ANIL PAWAR"
 date: "JULY 11, 2020"
 output: ioslides_presentation
