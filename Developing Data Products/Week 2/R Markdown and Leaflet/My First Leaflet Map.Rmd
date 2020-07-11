@@ -1,14 +1,13 @@
 ---
 title: "My First Leaflet Map"
-author: "Christian Frei"
-date: "6 July 2017"
+author: "ATHARV ANIL PAWAR"
+date: "11 JULY 2020"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-The source code is available at [GitHub](https://github.com/Krysek/Coursera-Data-Science-Specialization-Developing-Data-Products-Week-2-Assignment). [Just click here!](https://github.com/Krysek/Coursera-Data-Science-Specialization-Developing-Data-Products-Week-2-Assignment)
 
 ## My First Leaflet Map
 Create a leaflet map object.
